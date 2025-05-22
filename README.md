@@ -6,7 +6,7 @@ A simple hangman game made with python and pygame.
 - pygame
 
 
-Algorithms
+# Algorithms
 
 • Candidate Word Filtering Algorithm: At each guess, the AI applies a pattern-
 matching approach:
